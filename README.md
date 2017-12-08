@@ -1,4 +1,5 @@
 # dominios-ricos-vscode
+Este exemplo de código foi criado para facilitar o aprendizado em domínios ricos utilizando dotnet core e como IDE VSCode.
 
 Dicas de leitura:
 
