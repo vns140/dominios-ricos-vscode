@@ -1,0 +1,8 @@
+C:\projects\estudos\dominios\estudo.shared\bin\Debug\netstandard2.0\estudo.shared.deps.json
+C:\projects\estudos\dominios\estudo.shared\bin\Debug\netstandard2.0\estudo.shared.dll
+C:\projects\estudos\dominios\estudo.shared\bin\Debug\netstandard2.0\estudo.shared.pdb
+C:\projects\estudos\dominios\estudo.shared\obj\Debug\netstandard2.0\estudo.shared.csproj.CoreCompileInputs.cache
+C:\projects\estudos\dominios\estudo.shared\obj\Debug\netstandard2.0\estudo.shared.AssemblyInfoInputs.cache
+C:\projects\estudos\dominios\estudo.shared\obj\Debug\netstandard2.0\estudo.shared.AssemblyInfo.cs
+C:\projects\estudos\dominios\estudo.shared\obj\Debug\netstandard2.0\estudo.shared.dll
+C:\projects\estudos\dominios\estudo.shared\obj\Debug\netstandard2.0\estudo.shared.pdb
