@@ -228,11 +228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\estudos\\dominios\\estudo.domain\\estudo.domain.csproj",
+      "projectUniqueName": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.domain\\estudo.domain.csproj",
       "projectName": "estudo.domain",
-      "projectPath": "C:\\projects\\estudos\\dominios\\estudo.domain\\estudo.domain.csproj",
+      "projectPath": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.domain\\estudo.domain.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\estudos\\dominios\\estudo.domain\\obj\\",
+      "outputPath": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -251,8 +251,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\projects\\estudos\\dominios\\estudo.shared\\estudo.shared.csproj": {
-              "projectPath": "C:\\projects\\estudos\\dominios\\estudo.shared\\estudo.shared.csproj"
+            "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.shared\\estudo.shared.csproj": {
+              "projectPath": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.shared\\estudo.shared.csproj"
             }
           }
         }

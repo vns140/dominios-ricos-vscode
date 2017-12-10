@@ -8,3 +8,4 @@ C:\projects\estudos\dominios\estudo.domain\obj\Debug\netstandard2.0\estudo.domai
 C:\projects\estudos\dominios\estudo.domain\obj\Debug\netstandard2.0\estudo.domain.AssemblyInfo.cs
 C:\projects\estudos\dominios\estudo.domain\obj\Debug\netstandard2.0\estudo.domain.dll
 C:\projects\estudos\dominios\estudo.domain\obj\Debug\netstandard2.0\estudo.domain.pdb
+C:\projects\estudos\dominios\dominios-ricos-vscode\estudo.domain\obj\Debug\netstandard2.0\estudo.domain.csproj.CoreCompileInputs.cache

@@ -209,11 +209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\estudos\\dominios\\estudo.shared\\estudo.shared.csproj",
+      "projectUniqueName": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.shared\\estudo.shared.csproj",
       "projectName": "estudo.shared",
-      "projectPath": "C:\\projects\\estudos\\dominios\\estudo.shared\\estudo.shared.csproj",
+      "projectPath": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.shared\\estudo.shared.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\estudos\\dominios\\estudo.shared\\obj\\",
+      "outputPath": "C:\\projects\\estudos\\dominios\\dominios-ricos-vscode\\estudo.shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
